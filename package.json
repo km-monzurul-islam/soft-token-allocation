@@ -1,0 +1,18 @@
+{
+  "name": "soft-token-allocation",
+  "version": "1.0.0",
+  "description": "CMS Soft Token Allication Script",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "KM Monzurul Islam",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "exceljs": "^4.3.0",
+    "nodemailer": "^6.9.1",
+    "password-prompt": "^1.1.2",
+    "playwright": "^1.30.0"
+  }
+}
